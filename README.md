@@ -2,8 +2,6 @@
 
 The aim of the project is to make it possible to detect swimming pools using satellite images. This detection is done in two steps, on the one hand, a call to the google maps api allows to obtain an aerial photograph on the GPS coordinates or the postal address concerned. In a second step, a customised model using the Yolov5 architecture is used to verify the presence of one or more swimming pools on the photograph.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ### Installation
 
 The installation of python3 and pip is necessary for the installation of the packages
