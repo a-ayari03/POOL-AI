@@ -22,7 +22,8 @@ The notebook [Pool_object_detection.ipynb](https://github.com/a-ayari03/POOL-AI/
 Detection is performed on the [detection.ipynb] notebook (https://github.com/a-ayari03/POOL-AI/blob/main/detection.ipynb "detection.ipynb"). It requires a GPU and the results will be saved in the 'inference' folder.
 
 ### Authors and acknowledgment
-Alexandre Ayari, alexandre.ayari03@gmail.com 
+Alexandre Ayari, alexandre.ayari03@gmail.com
+Théo Bardon, theo.bardon@gmail.com
 
 
 
