@@ -19,10 +19,10 @@ YOLOv5 is one of the recent versions of the YOLO model family. YOLOv5 is the fir
 The notebook [Pool_object_detection.ipynb](https://github.com/a-ayari03/POOL-AI/blob/main/build_pool_model/Pool_object_detection.ipynb "Pool_object_detection.ipynb") allows to reproduce the model generated for pool detection. It requires however the use of a GPU and the labelled dataset (available).
 
 ### 3. Detection
-Detection is performed on the [detection.ipynb] notebook (https://github.com/a-ayari03/POOL-AI/blob/main/detection.ipynb "detection.ipynb"). It requires a GPU and the results will be saved in the 'inference' folder.
+Detection is performed on the notebook [detection.ipynb](https://github.com/a-ayari03/POOL-AI/blob/main/detection.ipynb "detection.ipynb"). It requires a GPU and the results will be saved in the 'inference' folder.
 
 ### Authors and acknowledgment
-Alexandre Ayari, alexandre.ayari03@gmail.com
+Alexandre Ayari, alexandre.ayari03@gmail.com,
 Théo Bardon, theo.bardon@gmail.com
 
 
