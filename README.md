@@ -23,7 +23,8 @@ Detection is performed on the notebook [detection.ipynb](https://github.com/a-ay
 
 ### Authors and acknowledgment
 Alexandre Ayari, alexandre.ayari03@gmail.com,
-Théo Bardon, theo.bardon@gmail.com
+Théo Bardon, theo.bardon@gmail.com,
+Mamadou Saidou Balde, baldeba772@gmail.com,
 
 
 
